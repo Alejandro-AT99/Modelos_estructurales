@@ -9,7 +9,7 @@ Este proyecto muestra el diseño sísmico y eólico de una nave industrial de 60
 
 ## Contenido
 - `Modelo. Nave Carretera Atizapán Atlacomulco.$2k`: archivo del modelo estructural para ser importado.
-- `Memoria de Cálculo.pdf`: memoria completa con hipótesis, combinaciones, diseño.
+- 
 - `Nave. Carretera Atizapán Atlacomulco.png`: Imagen del modelo. 
 
 ## Autor

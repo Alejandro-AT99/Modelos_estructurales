@@ -9,7 +9,7 @@ Este proyecto muestra el diseño sísmico y eólico de una nave industrial de 3,
 
 ## Contenido
 - `Modelo. Nave Barilla Duque de Herdez.$2k`: archivo del modelo estructural para ser importado.
-- `Memoria de Cálculo.pdf`: memoria completa con hipótesis, combinaciones, diseño.
+- 
 - `Nave. Barilla Duque de Herdez.png`: Imagen del modelo. 
 
 ## Autor
